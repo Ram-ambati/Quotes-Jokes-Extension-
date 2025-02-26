@@ -1,35 +1,27 @@
-# Quotes & Jokes Extension
-  A simple browser extension that fetches motivational quotes and funny jokes at the click of a button!
+# 📝 Quotes & Jokes Extension
 
-### Features
-  Motivational Quotes: Get a random inspiring quote.
-  Funny Jokes: Lighten up with a random joke.
-  Clean and user-friendly interface.
-  Fast and responsive button actions.
+## 🚀 Features
+- 📝 **Motivational Quotes:** Get a random inspiring quote.  
+- 😂 **Funny Jokes:** Lighten up with a random joke.  
+- 🎨 Clean and user-friendly interface.  
+- ⚡ Fast and responsive button actions.  
 
-### Installation
-  Clone or download the repository.
-  Open your browser and go to `chrome://extensions/`.
-  Enable Developer mode (top right corner).
-  Click Load unpacked and select the project folder.
-  Enjoy fetching new quotes and jokes!
+## 📷 Preview
+![Extension Preview](image.png)  
 
-### Usage
-  Click the New Quote button to display a fresh motivational quote.
-  Click the New Joke button for a random joke.
+## 🛠️ Installation
+1. Clone or download the repository.  
+2. Open your browser and go to `chrome://extensions/`.  
+3. Enable **Developer mode**.  
+4. Click **Load unpacked** and select the project folder.  
 
-### Project Structure
+## 🧩 Usage
+- Click **New Quote** to fetch a new motivational quote.  
+- Click **New Joke** to get a random joke.  
 
-  ```
-  ├── manifest.json       # Extension configuration
-  ├── popup.html          # Extension UI
-  ├── popup.js            # Fetches quotes and jokes
-  ├── styles.css          # Styling for the popup
-  └── README.md           # Project documentation
-  ```
-### APIs Used
-  Quotes: [API Name or Link https://api.allorigins.win/get?url=https://zenquotes.io/api/random&cachebuster=${new     Date().getTime()}]
-  Jokes: [API Name or Link ([https://icanhazdadjoke.com/slack]
+## 📡 APIs Used
+- Quotes: *[https://api.allorigins.win/get?url=https://zenquotes.io/api/random&cachebuster=${new Date().getTime()}]*  
+- Jokes: *[https://icanhazdadjoke.com/slack]*  
 
-### License
-  MIT License
+## 📖 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
