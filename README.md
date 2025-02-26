@@ -10,7 +10,7 @@ Preview
 
 ### Installation
 Clone or download the repository.
-Open your browser and go to chrome://extensions/.
+Open your browser and go to `chrome://extensions/`.
 Enable Developer mode (top right corner).
 Click Load unpacked and select the project folder.
 Enjoy fetching new quotes and jokes!
