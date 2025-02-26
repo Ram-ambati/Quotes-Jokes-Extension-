@@ -20,7 +20,7 @@
 - Click **New Joke** to get a random joke.  
 
 ## 📡 APIs Used
-- Quotes: *[https://api.allorigins.win/get?url=https://zenquotes.io/api/random&cachebuster=${new Date().getTime()}]*  
+- Quotes: *[https://api.allorigins.win/get?url=https://zenquotes.io/api/random&cachebuster]*  
 - Jokes: *[https://icanhazdadjoke.com/slack]*  
 
 ## 📖 License
